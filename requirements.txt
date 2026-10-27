@@ -1,0 +1,27 @@
+# Install the CUDA-matched torch/torchvision wheels before this file.
+beartype
+colorama
+colorspacious
+dacite
+e3nn
+einops
+hydra-core>=1.3
+imageio
+jaxtyping
+kornia
+lpips
+matplotlib
+moviepy==1.0.3
+numpy
+opencv-python
+Pillow
+plyfile
+pytorch-lightning
+scikit-image
+scikit-video
+scipy
+svg.py
+tabulate
+timm
+tqdm
+trimesh
