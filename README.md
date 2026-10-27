@@ -1,7 +1,6 @@
 # GaussSeed
 
-GaussSeed is the anonymous code package for **“GaussSeed: A Backend-Aware
-Learned Initialization Prior for Monocular 3DGS SLAM.”** It predicts canonical
+GaussSeed is the anonymous code package for **“GaussSeed: Backend-Aware Learned Gaussian Initialization and Map Expansion for Monocular 3DGS SLAM”** It predicts canonical
 3D Gaussians from two calibrated RGB frames and exposes a backend-independent
 module for scale calibration, geometric alignment, consistency-aware filtering,
 novelty selection, tensor adaptation, and optimizer-state initialization.
